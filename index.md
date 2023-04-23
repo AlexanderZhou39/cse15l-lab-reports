@@ -8,5 +8,10 @@ Lab Reports
             Lab 1
         </a>
     </li>
+    <li>
+        <a href="lab2.html">
+            Lab 2
+        </a>
+    </li>
 </ul>
 
