@@ -13,5 +13,10 @@ Lab Reports
             Lab 2
         </a>
     </li>
+    <li>
+        <a href="lab3.html">
+            Lab 3
+        </a>
+    </li>
 </ul>
 
