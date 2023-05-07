@@ -1,4 +1,4 @@
-# Lab Report 2 (5/3/23)
+# Lab Report 3 (5/3/23)
 ### Command-line Options
 In this report, we'll examine `grep` and its various options. <br>
 To view a command's options, you can either search up online documentation or run the manual command (`man <command>`).<br><br>
