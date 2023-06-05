@@ -18,5 +18,15 @@ Lab Reports
             Lab 3
         </a>
     </li>
+    <li>
+        <a href="lab4.html">
+            Lab 4
+        </a>
+    </li>
+    <li>
+        <a href="lab5.html">
+            Lab 5
+        </a>
+    </li>
 </ul>
 
